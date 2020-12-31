@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heymoan.github.io/zone</id>
     <title>G.</title>
-    <updated>2020-12-31T00:42:00.390Z</updated>
+    <updated>2020-12-31T00:43:00.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://heymoan.github.io/zone"/>
     <link rel="self" href="https://heymoan.github.io/zone/atom.xml"/>
@@ -18,7 +18,7 @@
         <content type="html"><![CDATA[<h2 id="终于完成啦"><strong>终于完成啦</strong></h2>
 <p>  折腾了一个小时终于将 Gridea 连接上了 Github 可以说是非常好用。访问速度不知道怎么样，但是香港访问挺快的。接下来要深入学习一下 Markdown 的写法啦，之后我会在这里分享写一些生活、经验、想法记录一下吧。感觉有一点小小的不足就是仅支持电脑编辑，其次是文章数据不方便迁移容易丢失吧。</p>
 <h2 id="markdown"><strong>Markdown</strong></h2>
-<p>  看到一个链接有关于Markdown写法相关的内容，记录在此以后方便查阅。挺强大的基本支持了所有文本类型的表达，熟练就好啦。 <a href="http://www.mdeditor.com/">Mdeditor</a></p>
+<p>  看到一个链接有关于 Markdown 写法相关的内容，记录在此以后方便查阅。挺强大的基本支持了所有文本类型的表达，熟练就好啦。 <a href="http://www.mdeditor.com/">Mdeditor</a></p>
 ]]></content>
     </entry>
 </feed>
