@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heymoan.github.io/zone</id>
-    <title></title>
-    <updated>2020-12-31T00:38:01.385Z</updated>
+    <title>G.</title>
+    <updated>2020-12-31T00:42:00.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://heymoan.github.io/zone"/>
     <link rel="self" href="https://heymoan.github.io/zone/atom.xml"/>
     <logo>https://heymoan.github.io/zone/images/avatar.png</logo>
     <icon>https://heymoan.github.io/zone/favicon.ico</icon>
-    <rights>All rights reserved 2020, </rights>
+    <rights>All rights reserved 2020, G.</rights>
     <entry>
         <title type="html"><![CDATA[我的第一个 Gridea 文章]]></title>
         <id>https://heymoan.github.io/zone/post/hello/</id>
