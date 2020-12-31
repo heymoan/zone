@@ -2,13 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heymoan.github.io/zone</id>
     <title>G.</title>
-    <updated>2020-12-31T00:43:00.051Z</updated>
+    <updated>2020-12-31T01:08:50.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://heymoan.github.io/zone"/>
     <link rel="self" href="https://heymoan.github.io/zone/atom.xml"/>
     <logo>https://heymoan.github.io/zone/images/avatar.png</logo>
     <icon>https://heymoan.github.io/zone/favicon.ico</icon>
     <rights>All rights reserved 2020, G.</rights>
+    <entry>
+        <title type="html"><![CDATA[随记]]></title>
+        <id>https://heymoan.github.io/zone/post/bao-chi-ji-ji-le-guan/</id>
+        <link href="https://heymoan.github.io/zone/post/bao-chi-ji-ji-le-guan/">
+        </link>
+        <updated>2020-12-31T00:43:31.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="积极与自信"><strong>积极与自信</strong></h2>
+<blockquote>
+<p>  对于不可控的事情，我们要保持乐观。对于可控的事情，我们要保持谨慎。</p>
+</blockquote>
+<p>  我们所能决定的就是我们自己要积极，至于别人给不给我们机会是我们不能够决定的。很多时候人们比的都不是特别高深的能力，我们比的大多数都是一些基础的能力。是不是能够发自内心的对他人尊重、是不是能够信守承诺、是不是能够坚持……<br>
+  保持自信，自卑自傲就像是硬币的两面。很多时候自卑的人会表现为自傲，自傲的人会表现为自卑，关键是你自己看得起你自己。</p>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="积极与自信"><strong>积极与自信</strong></h2>
+<blockquote>
+<p>  对于不可控的事情，我们要保持乐观。对于可控的事情，我们要保持谨慎。</p>
+</blockquote>
+<p>  我们所能决定的就是我们自己要积极，至于别人给不给我们机会是我们不能够决定的。很多时候人们比的都不是特别高深的能力，我们比的大多数都是一些基础的能力。是不是能够发自内心的对他人尊重、是不是能够信守承诺、是不是能够坚持……<br>
+  保持自信，自卑自傲就像是硬币的两面。很多时候自卑的人会表现为自傲，自傲的人会表现为自卑，关键是你自己看得起你自己。</p>
+<!-- more -->
+<h2 id="施与报"><strong>施与报</strong></h2>
+<blockquote>
+<p>  施恩能否得到回报，取决于受益者的良心，而施恩者无法控制受益者的良心。加害者则可以单方面控制局面，因为加害只需以来对方的恐惧。任何人都有恐惧，但不是任何人都有良心。</p>
+</blockquote>
+<p>  读到这句话的时候觉得很有意思，在一生中大家一定都会去帮助别人。小的时候帮助别人获得的是感情，进入社会与职场后大多数往往都会权衡其中的利弊。帮助别人对自己来说也是有益的，就像在学校时帮助同学解题，对方获得知识自己也能重温与获得认同。但有时会对自己造成负担，虽然说帮助别人是一种高尚的美德但也要量力而行。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的第一个 Gridea 文章]]></title>
         <id>https://heymoan.github.io/zone/post/hello/</id>
